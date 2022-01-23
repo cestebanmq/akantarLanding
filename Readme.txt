@@ -1,3 +1,5 @@
 Proyecto de AKantarKb.com
 
-Para arrancar el servicor lite-server: npm run dev
+* Ejecutar npm install despues de clonar el repositorio
+
+* Para arrancar el servicor lite-server: npm run dev

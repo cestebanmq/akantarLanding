@@ -1,0 +1,3 @@
+# Excluir archivos que no se deben versionar
+node_modules
+package-lock
